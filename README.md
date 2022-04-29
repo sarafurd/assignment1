@@ -1,2 +1,2 @@
-# assignment1
-Assignment 1 during CPSC 349 Summer 2020
+# assignment1 for CPSC 349
+
